@@ -16,7 +16,7 @@ A modern and responsive sneaker store landing page built with HTML and CSS.
 (Add screenshots here)
 
 ## 🌐 Live Demo
-sneaker-store-geekysaksham.vercel.app
+https://sneaker-store-geekysaksham.vercel.app/
 
 ## 📂 Project Structure
 - index.html
